@@ -2,17 +2,24 @@
 
 <html>
 
-<head>link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iu
+<head>
+
+link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iu
           <title> </title>
-     </head>
+</head>
      
-     <body><script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+     <body>
+     
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-           <h1>  </h1>
+   
+     <body>   
+     
+     <h1>  </h1>
            
        <p>  </p>
-     </body>
+     
      
 <html>
 
@@ -30,8 +37,6 @@
        <li>Tea</li>
        <li>Milk</li>
 </ol>
-
-</body>
 
 <a>  </a>
 <a href=http://unsplash.com/>this page has nice free pictures
@@ -51,5 +56,174 @@
     <label>
     <button>Click Me! </button>
 </html>
-  
-  
+
+
+
+
+
+
+
+
+
+</body>
+     <!--Navbar-->
+     <nav class="  navbar  navbar-expand-1g  fixed-top navbar-light  bg-light"
+        <a class= "navbar-brand" href="#">companyName< </a>
+        <button class= "navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+     </button>
+
+   </nav>
+</body>
+
+<div class="collapse navbar-collapse" id="navbarNav">
+   <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+         <a class="nav-link" href="#header>Home</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" href="abouyt">About Us<a/>
+      </li>
+      <li class="nav-item">
+         <a class="nav-link" href="#team">Meet Our Team</a>
+      </li>
+      <li class="nav-item">
+         <a class="nav-link" href="#getinvolved">Get Involved</a>
+      </li>
+      <li class="nav-item">
+         <a class="nav-link" href="#contact">Contact</a>
+      </li>
+      <li class="nav-link" href="#donate">Donate</a>
+     <!--Header-->
+     <div id="header" class="header"
+        <div class="slideshow-container">
+            <div class="myimages">
+                 <img src> ="https://wallpapercave.com/penguin-wallpaper
+          </div>
+       </div>  
+     </div>
+     https://jsbin.com/dugakodula/edit?htal,css
+     
+     
+        </h>
+    <!--About US-->
+    <div id="about" class="about">
+         <div class"container">
+             <h2>About Us</h2>
+             
+             <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             </p>
+             
+             
+             <hr>
+             <h3>Our Work</h3>
+             <div class= "row"
+             
+             </div> class="col-lg-6 col-sm-6">
+                <i class="fas fa-seeding" aria-hidden="true" ></i>
+                  <span><strong>Climate</strong></span>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+    </div> class="col-lg-6 col-sm-6">
+                <i class="fas fa-seeding" aria-hidden="true"></i>
+              <span><strong>Oceans</strong></span>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          </div>clasds="col-lg-6  col-sm-6">
+                <i class="fas fa-seeding" aria-hidden="true"></i>
+              <span><strong><Land</strong></span>
+                <i class="fas fa-seeding" aria-hidden="true"></i>
+    </div> class="col-lg-6 col-sm-6">
+                 <i class="fas fa-seeding" aria-hidden="true"></i>
+              <span><strong>Cities</strong></span>
+                 <i class="fas fa-seeding" aria-hidden="true"></i>
+
+           <div id="team" class="team">
+              <div class="container">
+                  <h2>Our Team</h2>
+                  
+                  <div class="row">
+                     <div class="col-lg-4 col-md-4">
+                         <img src="http://images.pexels.com/photos/1171032/pexels
+                           -photo-1171032.ipeg?auto=compress&cs=tinysrgb&h=350"
+                            class="rounded-circle"></img>
+            </div>
+            
+            <div class="col-lg8 col-md-8">
+                <h3?>Name</h3>
+                <h4>Founder</h4>
+                <p>
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Donec venenatis erat et velit lobortis aliquet.
+                </p>
+            </div>
+            
+        </div>
+     </div>
+  </div>
+    
+       <div class="row">
+                     <div class="col-lg-4 col-md-4">
+                         <img src="http://images.pexels.com/photos/1171032/pexels
+                           -photo-1171032.ipeg?auto=compress&cs=tinysrgb&h=350"
+                            class="rounded-circle"></img>
+            </div>
+            
+            <div class="col-lg8 col-md-8">
+                <h3?>Name</h3>
+                <h4>Founder</h4>
+                <p>
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Donec venenatis erat et velit lobortis aliquet.
+                </p>
+            </div>
+            
+        </div>
+     </div>
+  </div><div class="row">
+                     <div class="col-lg-4 col-md-4">
+                         <img src="http://images.pexels.com/photos/1171032/pexels
+                           -photo-1171032.ipeg?auto=compress&cs=tinysrgb&h=350"
+                            class="rounded-circle"></img>
+            </div>
+            
+            <div class="col-lg8 col-md-8">
+                <h3?>Name</h3>
+                <h4>Founder</h4>
+                <p>
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Donec venenatis erat et velit lobortis aliquet.
+                </p>
+            </div>
+            
+        </div>
+     </div>                                             
+  </div>           
+
+      </div>
+   </div>
+</div>
+
+<!--Contact-->
+<div id="contact" class="contact">
+      <div class=container">
+         <h2>Contact Us</h2>
+         <div class="row">
+              <div class-"col-lg-6 col-md-6">
+              
+              </div>
+              <div class="col-lg-6 col- md-6">
+              
+                </div>
+             </div> 
+        </div>
+  </div>
+
+<!-- Font Awesome -->
+https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.c
+ss" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+ 
+    
